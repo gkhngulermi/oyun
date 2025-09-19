@@ -1,0 +1,4 @@
+<div class="playerInput">
+    <label for="playerName">Oyuncu Adı:</label>
+    <input type="text" id="playerName" placeholder="Adınızı girin" maxlength="20">
+</div>
